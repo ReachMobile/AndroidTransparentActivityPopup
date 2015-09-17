@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">BaseApp</string>
+    <string name="app_name">TransparentActivity</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="button_view_activity">View Transparent Activity</string>
     <string name="action_settings">Settings</string>
 </resources>
